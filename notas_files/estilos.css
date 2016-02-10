@@ -1,0 +1,116 @@
+/*----------Clases generales----------------*/
+a:link {
+	color: #0033CC;
+}
+
+a:visited {
+	color: #0033CC;
+}
+
+a:hover {
+	color: #0033CC;
+}
+
+a:active {
+	color: #0033CC;
+}
+
+body {
+	background-color: #EEEEEE;
+}
+
+td {
+	background-color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #1E307C;
+	font-size: 13px;
+}
+/*--------------------------------------------*/
+
+/*------------Clases para el menu-------------*/
+.borde {
+	border-style:  none solid none solid;
+	border-width: 1px;
+	border-color: #6173A1;
+}
+
+td.menu_fondo {
+	background-color: #6173A1;
+}
+
+td.menu_opcion {
+	background-color: #9AA5C2;/*#6173A1;*/
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	height: 20px;
+}
+/*-------------------------------------------*/
+
+/*------Clases para tablas de datos----------*/
+td.encabezado {
+	background-color: #1E307C;/*#666699;*/
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+}
+
+td.duv{
+    	background-color: #FFFF99;/*#FFFF00*/
+	color: #1A2C79;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	height: 15px;
+}
+
+
+td.par {
+	background-color: #CAD0DF;/*#F9EAAD;*/
+	color: #1A2C79;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	height: 15px;
+}
+
+td.impar {
+	background-color: #BDC5D7;/*#FBF1C9;*/
+	color: #1A2C79;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	height: 15px;
+}
+
+td.info {
+	background-color: #E4E8EF;/*#CAD0DF;*/
+	color: #1A2C79;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+td.info_int {
+	background-color: #E4E8EF;/*#CAD0DF;*/
+	color: #1A2C79;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+td.titulo {
+	font-size: 12px;
+	color: #1E307C;
+	border-style: none none solid none;
+	border-width: 1px;
+	border-color: #1E307C;
+}
+/*-------------------------------------------*/
+
+/*----------Clases para inputs---------------*/
+input.submit {
+/*	color: #1F3F7E;*/
+	color: #000000;
+	background-color: #DDDDDD;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	border-style: ridge;
+}
+/*-------------------------------------------*/

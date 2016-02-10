@@ -1,0 +1,120 @@
+2015-10-23 08:44:05.1495|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.AboutViewModel.
+2015-10-23 08:43:35.3218|INFO|thread: 1|CommandLineHandler|Parsing command line arguments:
+2015-10-23 08:43:35.3375|INFO|thread: 1|CommandLineHandler|Unprocessed args: 
+2015-10-23 08:43:35.3375|INFO|thread: 1|AppInstanceCommunicator|An instance of GitHub Desktop is already running. Checking to see if we should pass control...
+2015-10-23 08:43:35.3375|INFO|thread: 1|AppInstanceCommunicator|Not a call to clone or open a repo, so just run the app as usual.
+2015-10-23 08:43:35.3531|INFO|thread: 5|StartupLogging| #########################################
+2015-10-23 08:43:35.3531|INFO|thread: 5|StartupLogging| GitHub Desktop started. VERSION: 3.0.6.4
+2015-10-23 08:43:35.3531|INFO|thread: 5|StartupLogging| Build version: 2bb686432ea8368ad8fd24d5b04f5ecc0ad6fd05
+2015-10-23 08:43:35.3531|INFO|thread: 5|StartupLogging| ***************************************
+2015-10-23 08:43:35.3531|INFO|thread: 5|StartupLogging| ***                                 ***
+2015-10-23 08:43:35.3531|INFO|thread: 5|StartupLogging| ***                                 ***
+2015-10-23 08:43:35.3531|INFO|thread: 5|StartupLogging| ***        Have a problem?          ***
+2015-10-23 08:43:35.3531|INFO|thread: 5|StartupLogging| ***    Email support@github.com     ***
+2015-10-23 08:43:35.3531|INFO|thread: 5|StartupLogging| ***      and include this file      ***
+2015-10-23 08:43:35.3531|INFO|thread: 5|StartupLogging| ***                                 ***
+2015-10-23 08:43:35.3531|INFO|thread: 5|StartupLogging| ***                                 ***
+2015-10-23 08:43:35.3531|INFO|thread: 5|StartupLogging| ***************************************
+2015-10-23 08:43:35.3531|INFO|thread: 5|StartupLogging| OS Version: Windows NT 10.0.10240.0 amd64
+2015-10-23 08:43:35.3531|INFO|thread: 5|StartupLogging| CLR Version: 4.0.30319.42000
+2015-10-23 08:43:35.3531|INFO|thread: 5|StartupLogging| Current culture: es-HN
+2015-10-23 08:43:35.3531|INFO|thread: 5|StartupLogging| Environment.CurrentDirectory: C:\Users\Usuario\AppData\Local\Apps\2.0\BG1E8ELO.AHO\9RY1DM6P.Q3Z\gith..tion_317444273a93ac29_0003.0000_23fac73779ecbb54
+2015-10-23 08:43:35.3531|INFO|thread: 5|StartupLogging| Environment.ExpandEnvironmentVariables("CWD"): 
+2015-10-23 08:43:35.3531|INFO|thread: 5|StartupLogging| Environment.ExpandEnvironmentVariables("CD"): 
+2015-10-23 08:43:35.3531|INFO|thread: 5|StartupLogging| currentProcess.StartInfo.WorkingDirectory: 
+2015-10-23 08:43:35.3531|INFO|thread: 5|StartupLogging| Terminal Services session: no
+2015-10-23 08:43:35.3531|INFO|thread: 5|StartupLogging| Location: C:\Users\Usuario\AppData\Local\Apps\2.0\BG1E8ELO.AHO\9RY1DM6P.Q3Z\gith..tion_317444273a93ac29_0003.0000_23fac73779ecbb54\GitHub.exe
+2015-10-23 08:43:35.3687|INFO|thread: 5|StartupLogging| ActivationUri: https://github-windows.s3.amazonaws.com/GitHub.application
+2015-10-23 08:43:35.3687|INFO|thread: 5|StartupLogging| Environment CommandLine: C:\Users\Usuario\AppData\Local\Apps\2.0\BG1E8ELO.AHO\9RY1DM6P.Q3Z\gith..tion_317444273a93ac29_0003.0000_23fac73779ecbb54\GitHub.exe
+2015-10-23 08:43:35.3843|INFO|thread: 5|GitEnvironment|Process set up with this SSH Agent info: 4432:/tmp/ssh-A7xG7XEWqEWC/agent.4784
+2015-10-23 08:43:35.3843|INFO|thread: 5|GitEnvironment|PATH is C:\Users\Usuario\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\Usuario\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\Usuario\AppData\Local\Apps\2.0\BG1E8ELO.AHO\9RY1DM6P.Q3Z\gith..tion_317444273a93ac29_0003.0000_23fac73779ecbb54;C:\Users\Usuario\AppData\Local\GitHub\lfs-amd64_0.5.4;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+2015-10-23 08:43:35.3843|INFO|thread: 5|StartupLogging| =====================================================
+2015-10-23 08:43:35.3843|INFO|thread: 5|StartupLogging|  DIAGNOSTICS                                        |
+2015-10-23 08:43:35.3843|INFO|thread: 5|StartupLogging| =====================================================
+2015-10-23 08:43:35.3843|INFO|thread: 1|HardwareRenderingHelper|Your video card appears to support hardware rendering. If this isn't the case and you see glitches
+2015-10-23 08:43:35.3843|INFO|thread: 1|HardwareRenderingHelper|set the GH_FORCE_SW_RENDERING environment variable to 1
+2015-10-23 08:43:35.3843|INFO|thread: 5|StartupLogging| Git Extracted: 'True:
+2015-10-23 08:43:35.3843|INFO|thread: 5|StartupLogging| PortableGit Dir Exists: 'C:\Users\Usuario\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad'
+2015-10-23 08:43:35.3999|INFO|thread: 5|StartupLogging| Git Executable Exists: 'C:\Users\Usuario\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe'
+2015-10-23 08:43:35.3999|INFO|thread: 5|StartupLogging| ----------------------------------------------------
+2015-10-23 08:43:35.3999|INFO|thread: 5|StartupLogging| PATH: C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+2015-10-23 08:43:35.3999|INFO|thread: 5|StartupLogger|Proxy information: (None)
+2015-10-23 08:43:35.3999|INFO|thread: 5|StartupLogger|Couldn't fetch creds for proxy
+2015-10-23 08:43:35.6968|INFO|thread: 1|App|Checking whether application is network deployed: True
+2015-10-23 08:43:35.6968|INFO|thread: 1|App|Shortcut C:\Users\Usuario\AppData\Local\GitHub\GitHub.appref-ms exists? True
+2015-10-23 08:43:35.7281|INFO|thread: 5|PortablePackageManager|Already extracted PortableGit.7z, returning 100%
+2015-10-23 08:43:35.7281|INFO|thread: 7|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Usuario\AppData\Local\Apps\2.0\BG1E8ELO.AHO\9RY1DM6P.Q3Z\gith..tion_317444273a93ac29_0003.0000_23fac73779ecbb54\7za.exe', Args: 'x -y "-oC:\Users\Usuario\AppData\Local\GitHub\p24mce0q.i1o.deleteme" "C:\Users\Usuario\AppData\Local\Apps\2.0\BG1E8ELO.AHO\9RY1DM6P.Q3Z\gith..tion_317444273a93ac29_0003.0000_23fac73779ecbb54\tutorial.7z"', Working Directory: 
+2015-10-23 08:43:35.7437|INFO|thread: 7|PortablePackageManager|Extracting tutorial.7z is (so far) successful
+2015-10-23 08:43:35.7593|INFO|thread: 1|ClickOnceAppIconHelper|Updating registry with our application icon 'C:\Users\Usuario\AppData\Local\Apps\2.0\BG1E8ELO.AHO\9RY1DM6P.Q3Z\gith..tion_317444273a93ac29_0003.0000_23fac73779ecbb54\Images\App.ico'
+2015-10-23 08:43:35.8062|INFO|thread: 5|MsysGitCertificateInstaller|Found certificate cache, loaded 162 certificates
+2015-10-23 08:43:35.8062|INFO|thread: 5|MsysGitCertificateInstaller|Created certificate bundle with 164 entries
+2015-10-23 08:43:35.8687|INFO|thread: 5|StartupSequence|Took 144ms to Update certificate bundle from system store
+2015-10-23 08:43:35.8687|INFO|thread: 7|PortablePackageManager|Extracted package successfully: tutorial.7z
+2015-10-23 08:43:36.8532|INFO|thread: 1|CommandLineToolsExtractor|Portable Git and Git LFS are already extracted
+2015-10-23 08:43:36.8532|INFO|thread: 1|GitClient|Installing git lfs filters
+2015-10-23 08:43:36.8532|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 4432:/tmp/ssh-A7xG7XEWqEWC/agent.4784
+2015-10-23 08:43:36.8532|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Usuario\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\Usuario\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\Usuario\AppData\Local\Apps\2.0\BG1E8ELO.AHO\9RY1DM6P.Q3Z\gith..tion_317444273a93ac29_0003.0000_23fac73779ecbb54;C:\Users\Usuario\AppData\Local\GitHub\lfs-amd64_0.5.4;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-10-23 08:43:36.8532|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Usuario\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'lfs init --force ', Working Directory: C:\Users\Usuario\AppData\Local\Temp\
+2015-10-23 08:43:36.8532|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.ShellViewModel.
+2015-10-23 08:43:36.8532|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.DashboardViewModel.
+2015-10-23 08:43:37.5555|INFO|thread: 1|PortablePackageManager|Already extracted gitignore.7z, returning 100%
+2015-10-23 08:43:37.9491|WARN|thread:17|LoginCache|Could not get login for host 'GitHub.HostAddress'
+System.Collections.Generic.KeyNotFoundException: The given key 'login:null' was not present in the cache.
+2015-10-23 08:43:38.0101|INFO|thread:16|DashboardViewModel|Selected repository '/Tutorial'
+2015-10-23 08:43:38.0357|INFO|thread:16|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 1 at GitClient.cs:627
+2015-10-23 08:43:38.0357|INFO|thread:11|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 1 at GitClient.cs:627 after waiting 0.0019146s
+2015-10-23 08:43:38.0357|INFO|thread:16|AsyncReaderWriterLock|Acquiring exclusive scheduler for operation 2 at GitClient.cs:605
+2015-10-23 08:43:38.0887|INFO|thread: 7|AsyncReaderWriterLock|Released concurrent scheduler for operation: 1 at GitClient.cs:627 after blocking 0.05109s
+2015-10-23 08:43:38.0887|INFO|thread: 5|AsyncReaderWriterLock|Acquired exclusive scheduler for operation: 2 at GitClient.cs:605 after waiting 0.0500671s
+2015-10-23 08:43:38.5090|INFO|thread: 1|RepositoryHost|Log in from cache for login 'carlossalinas95' to host 'https://api.github.com/' SUCCEEDED
+2015-10-23 08:43:38.5405|INFO|thread:24|ApplicationShellInitializer|Running post login tasks. ~/.gitconfig is set up with user.name = 'carlossalinas95' and user.email = 'csalinas_j1995@hotmail.com'
+2015-10-23 08:43:38.5570|INFO|thread:24|SSHKeyHelper|ssh-agent already running
+2015-10-23 08:43:38.5650|INFO|thread:24|PortablePackageManager|Already extracted lfs-amd64.7z, returning 100%
+2015-10-23 08:43:38.5650|INFO|thread:24|GitEnvironment|Process set up with this SSH Agent info: 4432:/tmp/ssh-A7xG7XEWqEWC/agent.4784
+2015-10-23 08:43:38.5650|INFO|thread:24|GitEnvironment|PATH is C:\Users\Usuario\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\Usuario\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\Usuario\AppData\Local\Apps\2.0\BG1E8ELO.AHO\9RY1DM6P.Q3Z\gith..tion_317444273a93ac29_0003.0000_23fac73779ecbb54;C:\Users\Usuario\AppData\Local\GitHub\lfs-amd64_0.5.4;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-10-23 08:43:38.5885|INFO|thread:24|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Usuario\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\ssh-add.exe', Args: '"C:\Users\Usuario\.ssh\github_rsa"', Working Directory: C:\Users\Usuario\AppData\Local\Temp\
+2015-10-23 08:43:38.6496|INFO|thread:17|SSHKeyHelper|Found existing SSH key pair
+2015-10-23 08:43:38.7717|INFO|thread: 5|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 3 at GitClient.cs:622
+2015-10-23 08:43:38.8833|INFO|thread: 5|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 4 at GitClient.cs:222
+2015-10-23 08:43:38.8833|INFO|thread: 5|DashboardViewModel|Took 855ms to Create RepositoryViewModel for location C:\Users\Usuario\AppData\Local\GitHub\TutorialRepository_fdbf2020839cde135ff9dbed7d503f8e03fa3ab4\new-repo
+2015-10-23 08:43:38.8833|INFO|thread: 5|AsyncReaderWriterLock|Released exclusive scheduler for operation: 2 at GitClient.cs:605 after blocking 0.7950789s
+2015-10-23 08:43:38.8833|INFO|thread: 7|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 3 at GitClient.cs:622 after waiting 0.1145522s
+2015-10-23 08:43:38.8833|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 4 at GitClient.cs:222 after waiting 0.0028327s
+2015-10-23 08:43:38.8988|INFO|thread: 4|GitClient|Loading commits for repo: C:\Users\Usuario\AppData\Local\GitHub\TutorialRepository_fdbf2020839cde135ff9dbed7d503f8e03fa3ab4\new-repo
+2015-10-23 08:43:38.9328|INFO|thread: 7|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 5 at RepositoryViewModel.cs:325
+2015-10-23 08:43:38.9328|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 5 at RepositoryViewModel.cs:325 after waiting 0.0015262s
+2015-10-23 08:43:38.9328|INFO|thread: 7|AsyncReaderWriterLock|Released concurrent scheduler for operation: 3 at GitClient.cs:622 after blocking 0.0491387s
+2015-10-23 08:43:38.9568|INFO|thread: 4|ConcurrentRepositoryConnection|Loaded '1' commits for repo: C:\Users\Usuario\AppData\Local\GitHub\TutorialRepository_fdbf2020839cde135ff9dbed7d503f8e03fa3ab4\new-repo\.
+2015-10-23 08:43:38.9753|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 4 at GitClient.cs:222 after blocking 0.0891435s
+2015-10-23 08:43:38.9963|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 5 at RepositoryViewModel.cs:325 after blocking 0.0621252s
+2015-10-23 08:43:39.1183|INFO|thread: 4|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 6 at RepositoryModel.cs:596
+2015-10-23 08:43:39.1183|INFO|thread:17|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 6 at RepositoryModel.cs:596 after waiting 0.000127s
+2015-10-23 08:43:39.1183|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 7 at GitClient.cs:199
+2015-10-23 08:43:39.1183|INFO|thread: 7|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 7 at GitClient.cs:199 after waiting 7.56E-05s
+2015-10-23 08:43:39.1183|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 8 at RepositoryModel.cs:596
+2015-10-23 08:43:39.1374|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 9 at BranchesViewModel.cs:543
+2015-10-23 08:43:39.1374|INFO|thread: 5|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 10 at GitClient.cs:288
+2015-10-23 08:43:39.1414|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 11 at RepositoryViewModel.cs:325
+2015-10-23 08:43:39.1414|INFO|thread: 5|AsyncReaderWriterLock|Released concurrent scheduler for operation: 6 at RepositoryModel.cs:596 after blocking 0.0297873s
+2015-10-23 08:43:39.1414|INFO|thread:17|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 8 at RepositoryModel.cs:596 after waiting 0.0224633s
+2015-10-23 08:43:39.1414|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 9 at BranchesViewModel.cs:543 after waiting 0.0109795s
+2015-10-23 08:43:39.1640|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 7 at GitClient.cs:199 after blocking 0.0386051s
+2015-10-23 08:43:39.1640|INFO|thread: 7|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 10 at GitClient.cs:288 after waiting 0.0235607s
+2015-10-23 08:43:39.1640|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 8 at RepositoryModel.cs:596 after blocking 0.0236325s
+2015-10-23 08:43:39.1640|INFO|thread:17|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 11 at RepositoryViewModel.cs:325 after waiting 0.0304019s
+2015-10-23 08:43:39.1730|INFO|thread: 7|GitEnvironment|Process set up with this SSH Agent info: 4432:/tmp/ssh-A7xG7XEWqEWC/agent.4784
+2015-10-23 08:43:39.1730|INFO|thread: 7|GitEnvironment|PATH is C:\Users\Usuario\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\Usuario\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\Usuario\AppData\Local\Apps\2.0\BG1E8ELO.AHO\9RY1DM6P.Q3Z\gith..tion_317444273a93ac29_0003.0000_23fac73779ecbb54;C:\Users\Usuario\AppData\Local\GitHub\lfs-amd64_0.5.4;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-10-23 08:43:39.1730|INFO|thread: 7|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Usuario\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\Usuario\AppData\Local\GitHub\TutorialRepository_fdbf2020839cde135ff9dbed7d503f8e03fa3ab4\new-repo\
+2015-10-23 08:43:39.1730|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 9 at BranchesViewModel.cs:543 after blocking 0.0364733s
+2015-10-23 08:43:39.2095|INFO|thread: 4|ConcurrentRepositoryConnection|Took 28ms to git status
+2015-10-23 08:43:39.2095|INFO|thread: 4|ConcurrentRepositoryConnection|Took 29ms to git status and parse output
+2015-10-23 08:43:39.2250|INFO|thread: 5|AsyncReaderWriterLock|Released concurrent scheduler for operation: 11 at RepositoryViewModel.cs:325 after blocking 0.053248s
+2015-10-23 08:43:39.2250|INFO|thread: 4|NewCommitViewModel|Took 85ms to load files for C:\Users\Usuario\AppData\Local\GitHub\TutorialRepository_fdbf2020839cde135ff9dbed7d503f8e03fa3ab4\new-repo
+2015-10-23 08:43:39.2250|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 10 at GitClient.cs:288 after blocking 0.0622646s
+2015-10-23 08:43:39.2250|INFO|thread: 1|NewCommitViewModel|Took 5ms to render file list for C:\Users\Usuario\AppData\Local\GitHub\TutorialRepository_fdbf2020839cde135ff9dbed7d503f8e03fa3ab4\new-repo
+2015-10-23 08:43:39.2250|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 12 at RepositoryViewModel.cs:325
+2015-10-23 08:43:39.2250|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 12 at RepositoryViewModel.cs:325 after waiting 4.49E-05s
+2015-10-23 08:43:39.2250|INFO|thread: 1|AsyncReaderWriterLock|Released concurrent scheduler for operation: 12 at RepositoryViewModel.cs:325 after blocking 7.2E-06s
+2015-10-23 08:43:39.2250|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 13 at RepositoryViewModel.cs:325
+2015-10-23 08:43:39.2250|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 13 at RepositoryViewModel.cs:325 after waiting 1.19E-05s
+2015-10-23 08:43:39.2390|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 13 at RepositoryViewModel.cs:325 after blocking 0.0066145s
